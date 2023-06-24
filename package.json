@@ -1,5 +1,9 @@
 {
   "name": "100dayscsschallenge",
+  "author": {
+    "name": "Keyner W. Tupac Yupanqui Caballero",
+    "email": "keyner.peru@gmail.com"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
